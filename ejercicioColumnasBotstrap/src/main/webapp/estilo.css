@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.container{
+	height:50px;
+	font-size: 20px;
+	color:black;
+	margin:10px;
+}	
+#verdes{
+	background-color: green;
+	height: 40px;
+	text-align: center;
+}
+#rojo{
+	background-color: red;
+	text-align: center;
+	height:400px;
+}
+#rosa{
+	background-color:pink
+	
+}
+
+#naranja{
+	background-color:orange;
+	text-align: center;
+	height: 200px;
+	
+}
+#azul{
+	background-color: blue;
+	text-align: center;
+	height: 100px;
+}
+#verde{
+	background-color: green;
+	height:40px;
+	text-align: center;
+	
+	}
+	.border{
+		border-color: black;
+	}
+	.col-sm-9 {
+		height: 150px;
+	}
+	
